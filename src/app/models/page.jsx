@@ -5,8 +5,8 @@
 import React from 'react';
 
 const ModelsPage =async () => {
-    const res = await fetch('http://localhost:5000/products',{next: {revalidate: 10}});
-    // const res = await fetch ('http://localhost:8000/products',{cache: 'no-store'});
+    // const res = await fetch('http://localhost:5000/products',{next: {revalidate: 10}});
+    const res = await fetch ('http://localhost:5000/products',{cache: 'no-store'});
     const models = await res.json();
     console.log(models)
     return (
