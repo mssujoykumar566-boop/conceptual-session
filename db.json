@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wireless Headphones",
+      "price": 70.99,
+      "category": "Electronics",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "image": "https://via.placeholder.com/300x200?text=Headphones",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Smart Watch",
+      "price": 89.99,
+      "category": "Electronics",
+      "description": "Smartwatch with health tracking and notifications.",
+      "image": "https://via.placeholder.com/300x200?text=Smart+Watch",
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "title": "Running Shoes",
+      "price": 49.99,
+      "category": "Fashion",
+      "description": "Comfortable running shoes for daily workouts.",
+      "image": "https://via.placeholder.com/300x200?text=Shoes",
+      "rating": 4.2
+    },
+    {
+      "id": 4,
+      "title": "Backpack",
+      "price": 29.99,
+      "category": "Accessories",
+      "description": "Durable backpack suitable for travel and school.",
+      "image": "https://via.placeholder.com/300x200?text=Backpack",
+      "rating": 4.4
+    },
+    {
+      "id": 5,
+      "title": "Bluetooth Speaker",
+      "price": 39.99,
+      "category": "Electronics",
+      "description": "Portable speaker with excellent sound quality.",
+      "image": "https://via.placeholder.com/300x200?text=Speaker",
+      "rating": 4.6
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 15.99,
+      "category": "Self-help",
+      "description": "A guide to building good habits and breaking bad ones.",
+      "image": "https://via.placeholder.com/300x200?text=Atomic+Habits",
+      "rating": 4.8,
+      "pages": 320,
+      "publishedYear": 2018
+    },
+    {
+      "id": 2,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 10.99,
+      "category": "Fiction",
+      "description": "A philosophical novel about following your dreams.",
+      "image": "https://via.placeholder.com/300x200?text=The+Alchemist",
+      "rating": 4.7,
+      "pages": 208,
+      "publishedYear": 1988
+    },
+    {
+      "id": 3,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 12.5,
+      "category": "Finance",
+      "description": "Lessons on money, investing, and financial independence.",
+      "image": "https://via.placeholder.com/300x200?text=Rich+Dad+Poor+Dad",
+      "rating": 4.6,
+      "pages": 336,
+      "publishedYear": 1997
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "price": 14.25,
+      "category": "Productivity",
+      "description": "Rules for focused success in a distracted world.",
+      "image": "https://via.placeholder.com/300x200?text=Deep+Work",
+      "rating": 4.5,
+      "pages": 304,
+      "publishedYear": 2016
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "price": 11.99,
+      "category": "Fantasy",
+      "description": "The first book in the Harry Potter series.",
+      "image": "https://via.placeholder.com/300x200?text=Harry+Potter",
+      "rating": 4.9,
+      "pages": 309,
+      "publishedYear": 1997
+    }
+  ]
+}
